@@ -16,10 +16,6 @@
     {
       "name": "Gore-Meta",
       "userId": "30CABA3A8C73DCBB"
-    },
-    {
-      "name": "Gore-Steam",
-      "userId": "EA1890560D1B7F87"
     }
   ],
   "modSpecificAdmins": [
@@ -41,7 +37,6 @@
   ],
   "superAdmins": [
     "Deez",
-    "Gore-Steam"
   ],
   "consoleStatuses": [],
   "modVersionInfo": [
