@@ -39,6 +39,11 @@
           "name": "AltA",
           "userId": "DE3BED8BF8600272",
           "superAdmin": "True"
+        },
+        {
+          "name": "dumbfounded",
+          "userId": "6E130899D2DF3C08",
+          "superAdmin": "True"
         }
       ]
     }
