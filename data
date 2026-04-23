@@ -53,23 +53,6 @@
     "Gore-Steam"
   ],  
   "consoleStatuses": [],
-  "modSpecificAdmins": [
-    {
-      "consoleName": "Cereal",
-      "admins": [
-        {
-          "name": "Lex1",
-          "userId": "467114172575CC01",
-          "superAdmin": "True"
-        },
-        {
-          "name": "Deez",
-          "userId": "C9027C8A184048B",
-          "superAdmin": "True"
-        }
-      ]
-    }
-  ],
   "modVersionInfo": [
     {
       "modName": "hamburbur",
