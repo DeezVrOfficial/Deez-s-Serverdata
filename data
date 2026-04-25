@@ -50,11 +50,11 @@
   "consoleStatuses": [],
   "modVersionInfo": [
     {
-      "modName": "hamburbur",
-      "latestVersion": "6.2.1",
-      "minimumVersion": "6.2.1",
-      "notLatestMessage": "You are not on the latest version of Hamburbur.\\ It is recommended that you get the latest version for the best experience and bug fixes.",
-      "outdatedMessage": "\u003Ccolor=red\u003EYou are not on the latest release of Hamburbur!\u003C/color\u003E\\ Message this Discord User to get the newest version!:\\ \u003Csize=80%\u003E\u003Cb\u003Eclaude.deez\u003Cb\u003E\u003C/size\u003E\\"
+      "modName": "Deez's Nametags",
+      "latestVersion": "1.0.3",
+      "minimumVersion": "1.0.3",
+      "notLatestMessage": "You are not on the latest version of Deez's Nametags.\\ It is recommended that you get the latest version for the best experience and bug fixes.",
+      "outdatedMessage": "\u003Ccolor=red\u003EYou are not on the latest release of Deez's Nametags!\u003C/color\u003E\\ A new tab should have open to get the latest version.\\ If it did not open please manually download the latest at:\\ \u003Csize=80%\u003E\u003Cb\u003Ehttps://discord.gg/FPyezPNxmQ\u003Cb\u003E\u003C/size\u003E\\"
     }
   ],
   "cleanUpForestObjectNames": [
