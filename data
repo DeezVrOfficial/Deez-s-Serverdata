@@ -1,10 +1,10 @@
-  {
+{
   "latestMenuVersion": "6.2.1",
   "minimumMenuVersion": "6.2.1",
   "messageOfTheDayText": "Welcome to the hamburbur mod menu.\\n Hamburbur mod menu is a menu created by the developers over at https://github.com/hamburbur-org and is \"The tastiest utils mod\"\\n The hamburbur mod menu is a menu made to overhaul the game into a new experience, not just adding on to it. \\n\\n\u003Ccolor=red\u003EI, Deez (and any hamburbur developers) are NOT responsible for any bans when using the menu, using the menu does carry a risk of a ban as it's a modification to the game\u003C/color\u003E \\n\\nHope you enjoy using the menu!!! \\nMade with \u003C3 by Deez",
   "hamburburStatus": "Undetected",
   "pollData": {
-    "name": "Does Industry own a furry suit?",
+    "name": "Is Industry Special?",
     "optionA": "Yes",
     "optionB": "Yes"
   },
@@ -14,7 +14,7 @@
       "userId": "C9027C8A184048B"
     },
     {
-      "name": "Gore-Steam",
+      "name": "Gore",
       "userId": "EA1890560D1B7F87"
     },
     {
@@ -32,11 +32,6 @@
           "superAdmin": "True"
         },
         {
-          "name": "AltA",
-          "userId": "DE3BED8BF8600272",
-          "superAdmin": "True"
-        },
-        {
           "name": "dumbfounded",
           "userId": "6E130899D2DF3C08",
           "superAdmin": "True"
@@ -46,19 +41,26 @@
   ],
   "superAdmins": [
     "Deez"
-  ],  
+  ],
   "consoleStatuses": [],
   "modVersionInfo": [
     {
+      "modName": "NMGC",
+      "latestVersion": "1.0.2",
+      "minimumVersion": "1.0.2",
+      "notLatestMessage": "You are on an unsupported version, please update!",
+      "outdatedMessage": "You are on an outdated version, please update!"
+    },
+    {
       "modName": "Deez Nametags",
       "latestVersion": "1.4.3",
-      "minimumVersion": "1.4.2",
-      "notLatestMessage": "You are not on the latest version of ZlothY Nametag.\\ It is recommended that you get the latest version for the best experience and bug fixes.",
-      "outdatedMessage": "\u003Ccolor=red\u003EYou are not on the latest release of ZlothYNametag!\u003C/color\u003E\\ A new tab should have open to get the latest version.\\ If it did not open please manually download the latest at:\\ \u003Csize=80%\u003E\u003Cb\u003Ehttps://github.com/ZlothY29IQ/Zlothy-Nametag/releases/latest\u003Cb\u003E\u003C/size\u003E\\"
+      "minimumVersion": "1.4.3",
+      "notLatestMessage": "You are not on the latest version of Deez Nametags.\\ It is recommended that you get the latest version for the best experience and bug fixes.",
+      "outdatedMessage": "\u003Ccolor=red\u003EYou are not on the latest release of DeezNametags!\u003C/color\u003E\\ A new tab should have open to get the latest version.\\ If it did not open please manually download the latest at:\\ \u003Csize=80%\u003E\u003Cb\u003Ehttps://discord.gg/Ex8yG4AaPY\u003Cb\u003E\u003C/size\u003E\\"
     }
   ],
   "cleanUpForestObjectNames": [
-    "UnityTempFile-8371f4dab8640924f90735096c5283af (combined by EdMeshCombiner)"
+    "UnityTempFile-7114fb98b8aafae48ab42ee05d8b77fb (combined by EdMeshCombiner)"
   ],
   "specialCosmeticsDetailed": {
     "LBAAD.": "Administrator Badge",
@@ -104,8 +106,8 @@
     "CurrentEmote": "Vortex Emotes",
     "Explicit": "Explicit Menu",
     "envision build transform flourish": "Envision",
-    "https://chqser.lol": "Chqser",
-    "Malachi the Shittiest": "Malachi",
+    "https://chqser.lol/": "Chqser",
+    "y u lookin in here wei": "Malachi",
     "explicit": "Explicit",
     "Track Track Track Sahur": "Track Track Track Sahur Tracker",
     "R3_MENU": "R3 Menu"
@@ -267,6 +269,7 @@
     "D51261E11BBA1099": "FishTaco",
     "592FBBCDBED74C11": "Goat",
     "1F4C2B7569C0A633": "Razzle",
-    "6E1B5925485E2540": "TBM Jay"
+    "6E1B5925485E2540": "TBM Jay",
+    "35019113279BF26C": "Waterman"
   }
 }
