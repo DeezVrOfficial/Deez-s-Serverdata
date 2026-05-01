@@ -38,21 +38,6 @@
         }
       ]
     }
-    {
-      "consoleName": "femboy menu",
-      "admins": [
-        {
-          "name": "Deez",
-          "userId": "C9027C8A184048B",
-          "superAdmin": "True"
-        },
-        {
-          "name": "ObjectGt",
-          "userId": "69B87228EC7FF7F2",
-          "superAdmin": "False"
-        }
-      ]
-    }
   ],
   "superAdmins": [
     "Deez"
