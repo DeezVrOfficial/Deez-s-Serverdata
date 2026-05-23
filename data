@@ -16,12 +16,17 @@
   ],
   "modSpecificAdmins": [
     {
-      "consoleName": "DangThatsAShitLoadOfInfo",
+      "consoleName": "DeezNametag",
       "admins": [
         {
           "name": "Deez",
           "userId": "C9027C8A184048B",
           "superAdmin": "True"
+        },
+        {
+          "name": "Lexi",
+          "userId": "A4E06D8CDF522CDA",
+          "superAdmin": "False"
         }
       ]
     }
