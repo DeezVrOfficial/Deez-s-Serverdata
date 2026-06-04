@@ -4,9 +4,9 @@
   "messageOfTheDayText": "Welcome to the hamburbur mod menu.\\n Hamburbur mod menu is a menu created by the developers over at https://github.com/hamburbur-org/hamburbur and is \"The tastiest utils mod\"\\n The hamburbur mod menu is a menu made to overhaul the game into a new experience, not just adding on to it. \\n\\n\u003Ccolor=red\u003EI, ZlothY (and any hamburbur developers) are NOT responsible for any bans when using the menu, using the menu does carry a risk of a ban as it's a modification to the game\u003C/color\u003E \\n\\nHope you enjoy using the menu!!! \\nMade with \u003C3 by Deez & ZlothY",
   "hamburburStatus": "Undetected",
   "pollData": {
-    "name": "Is Femakur going to give me thigh photos?",
-    "optionA": "Yes (PLEASE)",
-    "optionB": "No :("
+    "name": "Is Femakur the goat?",
+    "optionA": "Yes",
+    "optionB": "Yes"
   },
   "admins": [
     {
@@ -16,12 +16,22 @@
   ],
   "modSpecificAdmins": [
     {
-      "consoleName": "Deez Nametags",
+      "consoleName": "DangThatsAShitLoadOfInfo",
       "admins": [
         {
           "name": "Deez",
           "userId": "C9027C8A184048B",
           "superAdmin": "True"
+        },
+        {
+          "name": "TLine",
+          "userId": "1FF7AC25989A2E19",
+          "superAdmin": "True"
+        },
+        {
+          "name": "Ronin",
+          "userId": "7E80166430CCFD72",
+          "superAdmin": "False"
         }
       ]
     }
