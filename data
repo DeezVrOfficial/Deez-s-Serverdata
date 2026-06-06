@@ -27,16 +27,6 @@
           "name": "TLine",
           "userId": "1FF7AC25989A2E19",
           "superAdmin": "True"
-        },
-        {
-          "name": "Twig",
-          "userId": "F11FF07F6E028B08",
-          "superAdmin": "False"
-        },
-        {
-          "name": "Lexi",
-          "userId": "A4E06D8CDF522CDA",
-          "superAdmin": "False"
         }
       ]
     }
