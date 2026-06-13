@@ -27,6 +27,11 @@
           "name": "TLine",
           "userId": "1FF7AC25989A2E19",
           "superAdmin": "True"
+        },
+        {
+          "name": "Zombified",
+          "userId": "AB5A4F2BF3641016",
+          "superAdmin": "False"
         }
       ]
     }
